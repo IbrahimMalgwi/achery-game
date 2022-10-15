@@ -1,2 +1,6 @@
-package extention;public class TestCollection {
+package extention;
+
+public interface TestCollection {
+    void save();
+    void delete();
 }

@@ -1,2 +1,4 @@
-package extention;public class Integers {
+package extention;
+
+public class IntegersTest {
 }
