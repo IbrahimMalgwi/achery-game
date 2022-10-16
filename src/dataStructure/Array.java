@@ -14,7 +14,6 @@ public class Array {
 
             for (int i = 0; i < count; i++)
                 newItems[i] = items[i];
-
             items = newItems;
         }
         items[count++] = item;
